@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<parameters>
+  <width>2500</width>
+  <height>2500</height>
+  <max_split_distance>100</max_split_distance>
+  <top_speed>2.5</top_speed>
+  <low_speed>0.2</low_speed>
+  <attrition_rate>200</attrition_rate>
+  <food_value>1</food_value>
+  <player_start_mass>100</player_start_mass>
+  <max_food>5000</max_food>
+  <min_split_mass>100</min_split_mass>
+  <absorb_constant>1.25</absorb_constant>
+  <max_view_range>2500</max_view_range>
+  <heartbeats_per_second>25</heartbeats_per_second>
+</parameters>
